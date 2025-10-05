@@ -1,0 +1,9 @@
+label,text
+ham,Hey can we meet tomorrow at 5pm?
+ham,Your appointment is confirmed for Monday.
+phish,Your account has been suspended. Verify now: http://fake-bank.example
+phish,Congratulations! You won a gift card. Click here: http://bit.ly/fake
+phish,"Dear user, your payment failed. Update details: http://phish.example"
+ham,Can you send the notes from class?
+phish,Your package delivery failed. Enter details at http://track.example
+ham,Lunch at 1? I'll be there.
